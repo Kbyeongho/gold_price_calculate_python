@@ -9,3 +9,6 @@
 1. save_data로 금값 크롤링
 2. load_data로 크롤링값 저장
 3. gold_calc_gram(or don)으로 금 단위에 맞춰 값 입력후 사용
+
+사용한 라이브러리:
+pickle, bs4, requests
